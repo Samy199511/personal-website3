@@ -1,0 +1,23 @@
+### 📝 بالعربي:
+
+## 📁 سكربت أتمتة: إعادة تسمية الملفات تلقائيًا
+
+هذا مشروع بسيط باستخدام لغة بايثون يقوم بإعادة تسمية مجموعة من الملفات تلقائيًا داخل مجلد معين. يمكن استخدامه لتنظيم الملفات أو تسميتها بتسلسل واضح (مثل: `file_1.txt`, `file_2.txt`, ...).
+
+### ✅ المهارات المستخدمة:
+- Python
+- مكتبة `os` للتعامل مع الملفات والمجلدات
+- أتمتة المهام المتكررة
+
+---
+
+### 📝 In English:
+
+## 📁 Automation Script: Auto Rename Files
+
+This is a simple Python script that automatically renames a group of files in a specified folder. It can be used to organize or rename files in a sequential order (e.g., `file_1.txt`, `file_2.txt`, ...).
+
+### ✅ Skills used:
+- Python
+- `os` module for file and folder operations
+- Task automation
